@@ -1,3 +1,3 @@
 export default function StaticRoutingMovedPage() {
-  return <div>페이지 이동 완료</div>;
+  return <div>2페이지 이동 완료</div>;
 }
